@@ -95,7 +95,11 @@ A beautiful and intuitive Streamlit application for managing and analyzing Jira 
 ## Usage
 
 ### Basic Usage
-![Jira Agent Demo](./Streamlit-Jira-Demo.webm)
+
+<video src=
+     "https://raw.githubusercontent.com/Akash-Gunasekar/Jira_Agent/main/Streamlit-Jir
+     a-Demo.webm" controls loop autoplay muted></video>
+
 1. **Configure Connection**
    * Enter your Jira URL, email, and API token in the sidebar
    * Specify the project key you want to analyze
