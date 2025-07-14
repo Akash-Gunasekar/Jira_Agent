@@ -96,6 +96,9 @@ A beautiful and intuitive Streamlit application for managing and analyzing Jira 
 
 🎥 [Click here to view the demo video](https://raw.githubusercontent.com/Akash-Gunasekar/Jira_Agent/main/Jira_Agent_demo.mp4)
 
+![Jira Dashboard](https://raw.githubusercontent.com/Akash-Gunasekar/Jira_Agent/main/Jira_Analysis.png)
+
+![Jira Analysis](https://raw.githubusercontent.com/Akash-Gunasekar/Jira_Agent/main/Jira_Analysis.png)
      
 ### Basic Usage
 
